@@ -1,0 +1,19 @@
+{
+  "name": "the-hero-editor",
+  "version": "0.0.1",
+  "description": "hero editor test project",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AddictiveScience/the-hero-editor.git"
+  },
+  "author": "Jess Mason <Jess@AddictiveScience.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AddictiveScience/the-hero-editor/issues"
+  },
+  "homepage": "https://github.com/AddictiveScience/the-hero-editor#readme"
+}
