@@ -1,1 +1,1 @@
-console.log("Starting Server");
+console.log("frontend javascript");
